@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Data Engineering
 
-[Project 1 Title](/sample_page)
+[Deployment Automation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Visualisation](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Data Warehouse](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Web Development
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Website Development](http://example.com/)
+- [API Development](http://example.com/)
+- [Database Architecture](http://example.com/)
+- [Back-End Programming](http://example.com/)
+- [Front-End Programming](http://example.com/)
 
 ---
 
